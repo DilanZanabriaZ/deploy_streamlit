@@ -24,7 +24,7 @@ dbNames = db.collection("names")
 # CREAR NUEVO REGISTRO
 # =====================================
 
-st.header("Nuevo registro")
+st.header("Nuevo registro, creado por Dilan")
 
 index = st.text_input("Index")
 name = st.text_input("Name")
